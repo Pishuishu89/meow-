@@ -20,6 +20,7 @@ public class SleepCalculator extends JFrame {
 
 
 	public static void main(String[] args) {
+		System.out.println("hello wrld");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
